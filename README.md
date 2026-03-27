@@ -1,7 +1,7 @@
-# oss-audit-24mim10164
+# oss-audit-24bcg10100
 
-Name: Muskan Jain  
-Roll No: 24MIM10164
+Name: Prakhar Sharma
+Roll No: 24BCG10100
 
 Software Chosen: Git  
 Git is an open-source version control system used to track changes in code and collaborate with others.
